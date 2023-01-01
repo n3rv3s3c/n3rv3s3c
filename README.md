@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n3rv3s3c
-- 👀 I’m interested in bugs and bug bounty
-- 🌱 I’m currently learning python and how to be a cybersecurity analyst
+- 👀 I’m interested in bugs and bug bounty and Penetration Testing
+- 🌱 I’m currently learning python and how to be a cybersecurity analyst who builds tools for open source users(Knowledge is free here)
 - 💞️ I’m looking to collaborate on creating recon scripts, exploitation scripts and privilledge escalation scripts for bug bounty hunters
 
 
